@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13054026/106465811-26e63500-64a3-11eb-811f-826773c82498.png">
+</p>
+
 # IT Step iOS Course Materials
 
 Here you can find all demo projects, reference links and presentations for our iOS course :)
