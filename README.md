@@ -17,4 +17,5 @@ Here you can find all demo projects, reference links and presentations for our i
 - [Swift programming language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - [Swift Brief History](https://www.youtube.com/watch?v=4P_ZsOqELBo&t=311s&ab_channel=SeanAllen)
 ### Best learning practices
-- [Good things to know when starting developing](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
+- [Good things to know when starting development career](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
+- [Lots of tips for junior developer](https://www.youtube.com/watch?v=jZ_BzV0DA58&t=82s&ab_channel=SeanAllen)
