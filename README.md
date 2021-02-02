@@ -14,4 +14,5 @@ Here you can find all demo projects, reference links and presentations for our i
 
 ## Study Materials
 ### Swift
-[Swift programming language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- [Swift programming language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- [Swift Brief History](https://www.youtube.com/watch?v=4P_ZsOqELBo&t=311s&ab_channel=SeanAllen)
