@@ -15,7 +15,18 @@ Here you can find all demo projects, reference links and presentations for our i
 ## Study Materials
 ### Swift
 - [Swift programming language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- [Swift programming language guide (Ukraininan version)](https://book.swift.org.ua/)
 - [Swift Brief History](https://www.youtube.com/watch?v=4P_ZsOqELBo&t=311s&ab_channel=SeanAllen)
+- [Base types](https://www.youtube.com/watch?v=CcORJhKMelQ&ab_channel=SeanAllen)
+- [var vs let](https://www.youtube.com/watch?v=2cazK9Cg2Nw&ab_channel=SeanAllen)
+- [Strings](https://www.hackingwithswift.com/read/24/overview)
+- 
 ### Best learning practices
 - [Good things to know when starting development career](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
 - [Lots of tips for junior developer](https://www.youtube.com/watch?v=jZ_BzV0DA58&t=82s&ab_channel=SeanAllen)
+### Youtube channels and educational resources
+- [100 days of Swift and iOS](https://www.hackingwithswift.com/100)
+- [Hacking with Swift Youtube](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
+- [Raywenderlich tutorials](https://www.raywenderlich.com/getting-started)
+- [Sean Allen Youtube](https://www.youtube.com/c/SeanAllen)
+- [Code with Chris Youtube](https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw)
