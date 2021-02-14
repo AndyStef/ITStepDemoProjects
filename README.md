@@ -30,6 +30,7 @@ Here you can find all demo projects, reference links and presentations for our i
 - [xCode overview (video)](https://www.youtube.com/watch?v=lhtx0NZ7hJk&ab_channel=iOSAcademy)
 - [xCode tutorial](https://codewithchris.com/xcode-tutorial/)
 - [xCode shortcuts](https://medium.com/better-programming/13-xcode-shortcuts-to-boost-your-productivity-329c90512309)
+- [xCode hacks and tips](https://www.youtube.com/watch?v=8kiR_QsQNPc&ab_channel=PaulHudson)
 ### Best learning practices
 - [Good things to know when starting development career](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
 - [Lots of tips for junior developer](https://www.youtube.com/watch?v=jZ_BzV0DA58&t=82s&ab_channel=SeanAllen)
