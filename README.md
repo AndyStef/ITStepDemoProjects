@@ -43,6 +43,11 @@ Here you can find all demo projects, reference links and presentations for our i
 - [How to connect Storyboard elements to code - very important!](https://www.youtube.com/watch?v=mr7pJB2eyK4&t=5s&ab_channel=SeanAllen)
 ### UIView Subclasses 
 - [UIKit](https://www.youtube.com/watch?v=8r1njDKLs90&ab_channel=CodeWithChris)
+- [UILabel](https://www.youtube.com/watch?v=22vKbYGRzVo&ab_channel=PlanetVeracity)
+- [UIButton](https://www.youtube.com/watch?v=9Vq_xckdJkQ&ab_channel=SwiftTutorials)
+- [UITextField](https://www.youtube.com/watch?v=joy9hu06J7g&ab_channel=iOSAcademy)
+- [UIImageView](https://www.youtube.com/watch?v=Tb9J08y5a4w&ab_channel=iOSAcademy)
+- [UISwitch](https://www.youtube.com/watch?v=xLBkqKJzFyE&ab_channel=iOSAcademy)
 - [UIStepper](https://www.youtube.com/watch?v=7lATmhBIRsM&ab_channel=CodeWithChris)
 - [UISegmentedControl](https://www.youtube.com/watch?v=ESOZa40GUHk&ab_channel=SeanAllen)
 - [UIActivityIndicator](https://www.youtube.com/watch?v=W-WMZ0nNBE8&ab_channel=CodeWithChris)
