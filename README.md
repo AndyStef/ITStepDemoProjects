@@ -34,6 +34,12 @@ Here you can find all demo projects, reference links and presentations for our i
 - [Loops](https://www.youtube.com/watch?v=9Snw7polcBU&t=1s&ab_channel=SeanAllen)
 - [Functions](https://www.youtube.com/watch?v=CLmZxVkN9gw&ab_channel=CodeWithChris) and [Functions2](https://www.youtube.com/watch?v=AT5_lx4PbVM&ab_channel=CodeWithChris)
 - [Variadic parameters](https://www.youtube.com/watch?v=DtAYJfe_9o0&ab_channel=SeanAllen)
+#### Custom types:
+- [Enums](https://www.youtube.com/watch?v=CdBL7m1AeII&t=1s&ab_channel=SeanAllen)
+- [Structs](https://www.youtube.com/watch?v=3ox38NBBiNM&t=125s&ab_channel=SeanAllen)
+- [Classes](https://www.youtube.com/watch?v=EhDML-fAqTM&t=1s&ab_channel=SeanAllen)
+- [Static properties and methods](https://www.youtube.com/watch?v=s2E5hVxQAZQ&ab_channel=SeanAllen)
+- [self](https://www.youtube.com/watch?v=bBXdXmUobMw&ab_channel=SeanAllen)
 ### xCode 
 - [xCode overview (article)](https://medium.com/@pleelaprasad/xcode-keyboard-shortcuts-c1ef58a1bf5d)
 - [xCode overview (video)](https://www.youtube.com/watch?v=lhtx0NZ7hJk&ab_channel=iOSAcademy)
