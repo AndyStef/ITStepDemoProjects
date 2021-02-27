@@ -64,6 +64,14 @@ Here you can find all demo projects, reference links and presentations for our i
 ### UIViewController 
 - [ViewDidLoad](https://www.youtube.com/watch?v=fD2s4yOkEl8&t=1s&ab_channel=SeanAllen)
 - [Lifecycle](https://www.youtube.com/watch?v=d7ZqxvbiTyg&t=2s&ab_channel=SeanAllen)
+### Architecture 
+- [MVC (article)](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
+- [MVC Explained](https://medium.com/@yo.kononov/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-junior-ios-developer-dd969ecfbd41)
+- [MVC Stanford lecture](https://www.youtube.com/watch?v=gI3pz7eFgfo&t=976s&ab_channel=carpliyzLee)
+- [Good architecture traits](https://www.essentialdeveloper.com/articles/clean-ios-architecture-part-2-good-architecture-traits)
+- [How to make better MVC](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268)
+- [Different architectures](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
+- [Set of articles about iOS architectures (for curios ones)](https://medium.com/flawless-app-stories/the-perfect-ios-app-architecture-4e3d1ab96fa4)
 ### Best learning practices
 - [Good things to know when starting development career](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
 - [Lots of tips for junior developer](https://www.youtube.com/watch?v=jZ_BzV0DA58&t=82s&ab_channel=SeanAllen)
