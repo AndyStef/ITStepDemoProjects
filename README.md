@@ -72,6 +72,17 @@ Here you can find all demo projects, reference links and presentations for our i
 - [How to make better MVC](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268)
 - [Different architectures](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
 - [Set of articles about iOS architectures (for curios ones)](https://medium.com/flawless-app-stories/the-perfect-ios-app-architecture-4e3d1ab96fa4)
+### Autolayout
+- [Constraints Documentation](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithConstraintsinInterfaceBuidler.html#//apple_ref/doc/uid/TP40010853-CH10-SW1)
+- [Autolayout tutorial article](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
+- [Autolayout tutorial video](https://www.youtube.com/watch?v=emojd8GFB0o&ab_channel=CodeWithChris)
+- [StackView tutorial video](https://www.youtube.com/watch?v=eF9Ut-VpdAI&ab_channel=CodeWithChris)
+- [Autolayout on example](https://www.youtube.com/watch?v=2CsFQZBKGT8&t=0s&ab_channel=CodeWithChris)
+- [Autolayout on example 2](https://www.youtube.com/watch?v=E2Q0tAeuhts&ab_channel=CodeWithChris)
+- [Autolayout on example 3](https://www.youtube.com/watch?v=G2xdXmhYguI&ab_channel=CodeWithChris)
+- [Stack view on example](https://www.youtube.com/watch?v=b3VdL-M2kv0&ab_channel=CodeWithChris)
+- [Stack view on example 2](https://www.youtube.com/watch?v=-haK6v6YiU8&ab_channel=CodeWithChris)
+- [Storyboard advantages](https://www.youtube.com/watch?v=MruN43jw8GU&ab_channel=CodeWithChris)
 ### Best learning practices
 - [Good things to know when starting development career](https://www.youtube.com/watch?v=EgpKu1tAVMY&t=31s&ab_channel=SeanAllen)
 - [Lots of tips for junior developer](https://www.youtube.com/watch?v=jZ_BzV0DA58&t=82s&ab_channel=SeanAllen)
