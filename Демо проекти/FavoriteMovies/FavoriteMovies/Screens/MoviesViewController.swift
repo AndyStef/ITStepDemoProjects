@@ -12,6 +12,7 @@ class MoviesViewController: UIViewController {
     @IBOutlet private weak var tableView: UITableView!
     
     private let moviesDataSource: MoviesDataSource = MoviesFactory()
+    private let database: DatabaseService = RealmDatabase()
     private var movies: [Movie] = []
     
     override func viewDidLoad() {
@@ -32,13 +33,22 @@ class MoviesViewController: UIViewController {
     }
     
     private func getMovies() {
-        movies = moviesDataSource.getMovies()
+        movies = database.fetch(Movie.self, predicate: nil, sorted: nil)
+        
+        if movies.isEmpty {
+            let testMovies = moviesDataSource.getMovies()
+            testMovies.forEach {
+                database.save(object: $0)
+            }
+        }
+        
         tableView.reloadData()
     }
     
     private func setupNotifications() {
         NotificationCenter.default.addObserver(forName: .didEraseAllData, object: nil, queue: .main) { _ in
             self.movies.removeAll()
+            self.database.deleteAll(Movie.self)
             self.tableView.reloadData()
         }
     }
@@ -114,6 +124,8 @@ extension MoviesViewController: UITableViewDataSource, UITableViewDelegate {
     }
     
     func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
+        let movieToRemove = movies[indexPath.row]
+        database.delete(object: movieToRemove)
         movies.remove(at: indexPath.row)
         tableView.deleteRows(at: [indexPath], with: .automatic)
     }

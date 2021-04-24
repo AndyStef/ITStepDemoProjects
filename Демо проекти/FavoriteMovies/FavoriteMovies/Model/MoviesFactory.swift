@@ -14,7 +14,7 @@ class MoviesFactory: MoviesDataSource {
             Movie(
                 id: 1,
                 name: "Avengers Endgame",
-                description: "",
+                descriptionText: "",
                 image: "EndGame",
                 rating: 4.8,
                 releaseDate: Date(timeIntervalSince1970: 1556171226),
@@ -24,7 +24,7 @@ class MoviesFactory: MoviesDataSource {
             Movie(
                 id: 2,
                 name: "Birds Of Prey",
-                description: "",
+                descriptionText: "",
                 image: "Birds",
                 rating: 3.2,
                 releaseDate: Date(),
@@ -34,7 +34,7 @@ class MoviesFactory: MoviesDataSource {
             Movie(
                 id: 3,
                 name: "Spiderman Far From Home",
-                description: "",
+                descriptionText: "",
                 image: "Spider",
                 rating: 4.5,
                 releaseDate: Date(),
@@ -44,7 +44,7 @@ class MoviesFactory: MoviesDataSource {
             Movie(
                 id: 4,
                 name: "Star Wars Rise of Skywalker",
-                description: "",
+                descriptionText: "",
                 image: "StarWars",
                 rating: 4.1,
                 releaseDate: Date(),
